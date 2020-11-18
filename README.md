@@ -1,6 +1,6 @@
 # Frontend Mentor - Social proof section
 
-./design/desktop-preview.jpg
+
 
 ## Welcome! 👋
 
